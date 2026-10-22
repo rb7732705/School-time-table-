@@ -1,0 +1,6 @@
+{
+  "name": "ShalaSamay - School Time Table Maker",
+  "description": "Comprehensive school timetable generator and schedule manager for Principals with Class 1-12, teacher allocation, room allotments, period bell timings, and conflict detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
